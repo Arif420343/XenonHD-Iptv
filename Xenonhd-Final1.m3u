@@ -93,22 +93,22 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="Logo N/A" , Nakshi TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="Logo N/A" , NRB TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="Logo N/A" , Cumilla 24
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" , Sony Aat TV
+http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2160.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" , Colors Bangla Cinema
+http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2161.m3u8
 #EXTINF:-1 tvg-logo="Logo N/A" , Colors Bangla Cinema
 http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" , Atn Music
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="Logo N/A" , K TV
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7HplreU.jpg" , Nandan TV
-http://nandansyst.com/hls/nandan.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="http://162.244.81.142:1935/live/livestream/playlist.m3u8?token=soheliptv01826655778" , I TV
-http://162.244.81.142:1935/live/livestream/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kappa_tv_in.png" , Kappa TV
-http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" , Star Jalsha TV
+http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2055.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7HplreU.jpg" , Zee Bangla TV
+http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2070.m3u8
+#EXTINF:-1 tvg-logo="http://162.244.81.142:1935/live/livestream/playlist.m3u8?token=soheliptv01826655778" , Colors Bangla TV
+http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2071.m3u8
+#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kappa_tv_in.png" , Jalsha Movies TV
+http://asdd.cc:7444/live/To%20iPlex/To%20iPlex/2075.m3u8
 #EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/colors-bangla.png" , Sun Bangla
 http://live.flixhub.net/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" , Sony Max Hd Bdix
